@@ -1,4 +1,4 @@
-There are a few required links to use Bootstrap (the CSS file and two <meta> tags)
+There are a few required links to use Bootstrap (the CSS file and two meta tags)
 
 Bootstrap 4 has a grid system implemented using flexbox
 
