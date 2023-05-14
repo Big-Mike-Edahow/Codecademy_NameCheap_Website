@@ -1,9 +1,17 @@
-The Box Model.
+CSS Box Model: illustrates the space and boundary properties of an HTML element that can be controlled using CSS.
 
-content: Includes text, images, or other media contained within an HTML element.
+border: sets the outline of an HTML page element, like a picture frame that contains the element.
 
-padding: The space between the content and the border. You can think of this like inner space.
+padding: sets the amount of space between an element’s content and its border.
 
-border: The outline of an HTML page element. You can think of it like a picture frame that contains the element.
+margin: sets the amount of space between an HTML element and the next nearest element(s).
 
-margin: The space between the HTML page element and the next nearest element(s).
+display: property that determines how the selected element will be arranged in relation to other HTML elements on the page.
+
+inline: display value used to arrange HTML elements on the same line as neighboring elements.
+
+flex: display value that allows us to easily align multiple page elements vertically or horizontally.
+
+float: property used to float HTML elements left or right of neighboring elements.
+
+position: property used to position HTML elements in exact locations on a webpage.
